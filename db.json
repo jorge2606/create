@@ -1,5 +1,25 @@
 {
     "evaluation": [
         {}
-    ]
+    ],
+    "segment": {
+        "items": [
+            {
+                "description": "comercio",
+                "value": "comercio"
+            },
+            {
+                "description": "producción",
+                "value": "producción"
+            },
+            {
+                "description": "servicio",
+                "value": "servicio"
+            },
+            {
+                "description": "transporte",
+                "value": "transporte"
+            }
+        ]
+    }
 }
